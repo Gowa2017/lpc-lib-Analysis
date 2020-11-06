@@ -24,3 +24,7 @@ Example:
 python lpc-lib-analysis.py ../ds3.9/bin/mudos.cfg lib/std/room.c
 python lpc-lib-analysis.py ../ds3.9/bin/mudos.cfg /lib/std/room.c
 ```
+
+# CHANGELOG
+
+- Not it had tested on es2 and ds3.9
