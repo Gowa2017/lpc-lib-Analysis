@@ -11,6 +11,7 @@ INCLUDEPATH = None
 GLOBALPATH = None
 globals = dict()
 dot = Digraph('', directory='RES')
+dot.graph_attr['rankdir'] = 'LR'
 
 
 def match(s):
