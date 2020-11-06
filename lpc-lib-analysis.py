@@ -10,7 +10,7 @@ LIBPATH = None
 INCLUDEPATH = None
 GLOBALPATH = None
 globals = dict()
-dot = Digraph('')
+dot = Digraph('', directory='RES')
 
 
 def match(s):
